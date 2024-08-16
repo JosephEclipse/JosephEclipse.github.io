@@ -13,27 +13,26 @@
   .content {
     margin: 30px;
   }
-  #logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 150px;
-  }
   #header {
+  }
+  #logo {
+    display: inline-block;
+    max-width: 150px;
+    margin-left: 20px;
+  }
+  #headerlinks {
+    float: right;
+    margin-top: 20px;
   }
   #intro {
     background-color: #EcEcEc;
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  #whatwedo {
-  }
   #projects {
     background-color: #EcEcEc;
     padding-top: 20px;
     padding-bottom: 20px;
-  }
-  #contact {
   }
 </style>
 </head>
@@ -45,6 +44,16 @@
 <p style="color:red;"> work in progress.... </p>
 -->
 <img id="logo" src="./EclipseLogo.png" alt="Eclipse Logo"/>
+<div id="headerlinks">
+<a href="#vrf">VRF</a>
+&nbsp; &nbsp; &nbsp;
+<a href="#painting">Paint</a>
+&nbsp; &nbsp; &nbsp;
+<a href="#cnc">CNC</a>
+&nbsp; &nbsp; &nbsp;
+<a href="#cnc">Contact</a>
+&nbsp; &nbsp; &nbsp;
+</div>
 <p>
 </div>
 
@@ -64,7 +73,7 @@ throughout the greater Twin Ports area.
 <ul>
 
 <li>
-<h3>VRF (variable refrigerant flow) heating and cooling systems</h3>
+<h3 id="vrf">VRF (variable refrigerant flow) heating and cooling systems</h3>
 <ul>
 <li>
 Instead of traditional HVAC systems, Eclipse focuses on VRF systems for their
@@ -81,7 +90,7 @@ Eclipse can help you with installation or maintenance of a VRF system, please
 </li>
 
 <li>
-<h3>
+<h3 id="painting">
 Painting, both interior and exterior, with color-matching capabilities
 </h3>
 <ul>
@@ -97,7 +106,7 @@ professionally.
 </li>
 
 <li>
-<h3>
+<h3 id="cnc">
 CNC services, including custom cabinetry, architectural detailing, and more
 </h3>
 <ul>
