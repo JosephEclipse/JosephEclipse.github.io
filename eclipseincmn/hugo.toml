@@ -1,4 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Eclipse, Inc.'
 theme = 'ananke'
+
+[params]
+site_logo = "img/logo.png"
+recent_posts_number = 0
+
+[params.ananke]
+show_recent_posts = false
