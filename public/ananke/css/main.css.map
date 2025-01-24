@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/josep/OneDrive/Documents/josepheclipse.github.io/eclipseincmn",
+	"sourceRoot": "C:/Users/josep/OneDrive/Documents/josepheclipse.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
