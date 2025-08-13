@@ -24,5 +24,4 @@ Services:
 - Steam cleaning
 - High-pressure washing
 
-<a href="/contact">Contact us</a> if you have a paint job you need done
-professionally.
+[Contact us](/contact) if you have a paint job you need done professionally.

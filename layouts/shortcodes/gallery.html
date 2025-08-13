@@ -1,0 +1,15 @@
+{{ $image := resources.Get (.Get "src") }}
+{{ if $image }}
+  {{ $thumb := $image.Resize "300x300" }}
+  
+  <div class="gallery-item" style="display: inline-block; margin: 10px;">
+    <img src="{{ $thumb.Permalink }}" 
+         data-full="{{ $image.Permalink }}"
+         alt="{{ .Get "alt" }}" 
+         class="thumbnail-click"
+         style="max-width: 200px; cursor: pointer; border-radius: 8px;">
+  </div>
+{{ else }}
+  <p>Error: Could not find image {{ .Get "src" }}</p>
+{{ end }}
+

@@ -12,8 +12,6 @@ Precision manufacturing for commercial, residential, and hospitality environment
 
 50,000 square feet of production capacity.
 
-25+ years of expertise.
-
 Core Services:
 - Commercial furniture
 - Custom cabinetry
@@ -22,6 +20,6 @@ Core Services:
 - Interior signage
 - Decorative columns
 
-Whether its a one-off custom job, or an order of 100s of the the same part, <a href="/contact">contact us</a> to
+Whether its a one-off custom job, or an order of 100s of the the same part, [contact us](/contact) to
 see how our CNC team can cut your pieces quickly and accurately.
 

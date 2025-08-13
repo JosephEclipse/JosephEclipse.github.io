@@ -5,10 +5,6 @@ menu:
     weight: 1
 ---
 
----
-
-Millwork Solutions
-
 Four sided planer molder.
 
 Commercial millwork production.
@@ -23,4 +19,4 @@ Capabilities:
 - Exterior wood siding
 - Architectural specialties
 
-<a href="/contact">Contact us</a> to schedule a consultation to discuss your project requirements.
+[Contact us](/contact) to schedule a consultation to discuss your project requirements.

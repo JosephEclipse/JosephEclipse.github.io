@@ -24,4 +24,4 @@ VRF systems represent the pinnacle of modern HVAC technology, offering:
 Our experienced teams work closely with architects, building owners, and facility managers to design and implement VRF solutions that maximize comfort while minimizing energy consumption. From initial assessment through ongoing maintenance, we ensure your VRF system delivers optimal performance year-round.
 
 To see how Eclipse can help you with installation or maintenance of a VRF system, please
-<a href="/contact">contact us</a>.
+[contact us](/contact).
