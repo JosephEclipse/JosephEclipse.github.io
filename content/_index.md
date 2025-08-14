@@ -25,3 +25,9 @@ We are based in Cloquet, Minnesota, and serve clients in Duluth, Superior, and t
 {{< gallery src="img/hib1.jpg" alt="hibbing 1" >}}
 {{< gallery src="img/hib2.jpg" alt="hibbing 2" >}}
 {{< gallery src="img/hib3.jpg" alt="hibbing 3" >}}
+
+### Large beam flattening and table resurfacing
+
+{{< gallery src="img/flat1.jpg" alt="flattening 1" >}}
+{{< gallery src="img/flat2.jpg" alt="flattening 2" >}}
+{{< gallery src="img/flat3.jpg" alt="flattening 3" >}}
